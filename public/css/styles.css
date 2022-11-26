@@ -1,3 +1,17 @@
-body{ background-color: rgb(66, 134, 134);
-font-family: sans-serif;}
-h1{ font-family: serif;}
+body{   background-color: rgb(66, 134, 134);
+        font-family: sans-serif;
+        margin: 13px}
+h1{ font-family: serif;
+    text-align: center;
+}
+.one{display: flex;
+}
+.one p{
+    margin: 4rem;
+}
+.one img{
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-position: center center;
+}
